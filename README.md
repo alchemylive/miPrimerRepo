@@ -2,4 +2,6 @@
 
 Mi primer prepositorio
 
-Mi primera contribucion 
+Mi primera contribucion local para Github
+
+Un commit mas desde Github
